@@ -1,7 +1,8 @@
 # awesome-default-passwords
 
-A collection of default passwords for various devices and services.  Useful for
-system administrators and for demonstrating that default passwords are useless.
+An awesome collection of default passwords for various devices and services.
+Useful for system administrators and for demonstrating that default passwords
+are not awesome and terrible for the security ecosystem.
 
 ### The List
 If you just want a list of passwords, this repository **maintains a CSV list**
