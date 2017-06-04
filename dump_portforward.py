@@ -74,6 +74,7 @@ def main():
 
     data += passwords
     data.sort(key=itemgetter(0))
+    data = ["Manufacturer", "Model", "Username", "Password", "Notes"] + data
 
     with open(PASSWORD_CSV, "w") as f:
         csv.writer(f).writerows(data)
